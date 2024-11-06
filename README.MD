@@ -1,7 +1,3 @@
-Here's a comprehensive **README.md** file that includes all the necessary information for setting up and running the project. This README covers system requirements, installation, data setup, running the various scripts, and troubleshooting.
-
----
-
 # PUBHEALTH Fact-Checking System
 
 This repository provides a machine learning pipeline for fact-checking public health claims using the PUBHEALTH dataset. The system includes data ingestion, processing, model training, and a deployment-ready API built with FastAPI and Docker.
@@ -179,4 +175,3 @@ Once deployed, you may need to expose the service using a LoadBalancer or NodePo
 ## Contributors
 
 - **Saruk Shaikh** - Project setup and development
-- **Onclusive** - Original problem statement
