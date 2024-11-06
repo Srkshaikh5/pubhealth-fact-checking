@@ -1,0 +1,15 @@
+{"time":"2024-11-06T04:37:39.358464374Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T04:37:39.359839994Z","level":"INFO","msg":"created symlink","path":"/content/gdrive/MyDrive/PUBHEALTH/wandb/offline-run-20241106_043739-5e9yd2bv/logs/debug-core.log"}
+{"time":"2024-11-06T04:37:39.470025826Z","level":"INFO","msg":"created new stream","id":"5e9yd2bv"}
+{"time":"2024-11-06T04:37:39.470835445Z","level":"INFO","msg":"stream: started","id":"5e9yd2bv"}
+{"time":"2024-11-06T04:37:39.470865637Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5e9yd2bv"}}
+{"time":"2024-11-06T04:37:39.470952474Z","level":"INFO","msg":"handler: started","stream_id":{"value":"5e9yd2bv"}}
+{"time":"2024-11-06T04:37:39.470969776Z","level":"INFO","msg":"sender: started","stream_id":"5e9yd2bv"}
+{"time":"2024-11-06T04:37:39.489055871Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T04:38:35.340393854Z","level":"INFO","msg":"stream: closing","id":"5e9yd2bv"}
+{"time":"2024-11-06T04:38:35.34057003Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T04:38:35.341213118Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T04:38:35.34165873Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"5e9yd2bv"}}
+{"time":"2024-11-06T04:38:35.341819392Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"5e9yd2bv"}}
+{"time":"2024-11-06T04:38:35.341913664Z","level":"INFO","msg":"sender: closed","stream_id":"5e9yd2bv"}
+{"time":"2024-11-06T04:38:35.344727646Z","level":"INFO","msg":"stream: closed","id":"5e9yd2bv"}

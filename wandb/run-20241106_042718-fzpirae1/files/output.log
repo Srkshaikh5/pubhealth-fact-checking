@@ -1,0 +1,26 @@
+  0% 0/3681 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/content/gdrive/MyDrive/PUBHEALTH/train.py", line 65, in <module>
+    train_model()
+  File "/content/gdrive/MyDrive/PUBHEALTH/train.py", line 61, in train_model
+    trainer.train()
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 2279, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 3318, in training_step
+    loss = self.compute_loss(model, inputs)
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 3363, in compute_loss
+    outputs = model(**inputs)
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/transformers/models/distilbert/modeling_distilbert.py", line 883, in forward
+    distilbert_output = self.distilbert(
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/transformers/models/distilbert/modeling_distilbert.py", line 688, in forward
+    raise ValueError("You have to specify either input_ids or inputs_embeds")
+ValueError: You have to specify either input_ids or inputs_embeds

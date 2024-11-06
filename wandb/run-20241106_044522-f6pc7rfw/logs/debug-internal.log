@@ -1,0 +1,19 @@
+{"time":"2024-11-06T04:45:22.106947295Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T04:45:22.108291724Z","level":"INFO","msg":"created symlink","path":"/content/gdrive/MyDrive/PUBHEALTH/wandb/run-20241106_044522-f6pc7rfw/logs/debug-core.log"}
+{"time":"2024-11-06T04:45:22.217680792Z","level":"INFO","msg":"created new stream","id":"f6pc7rfw"}
+{"time":"2024-11-06T04:45:22.218425545Z","level":"INFO","msg":"stream: started","id":"f6pc7rfw"}
+{"time":"2024-11-06T04:45:22.218436038Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"f6pc7rfw"}}
+{"time":"2024-11-06T04:45:22.218583156Z","level":"INFO","msg":"handler: started","stream_id":{"value":"f6pc7rfw"}}
+{"time":"2024-11-06T04:45:22.218610409Z","level":"INFO","msg":"sender: started","stream_id":"f6pc7rfw"}
+{"time":"2024-11-06T04:45:22.40614698Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T04:48:59.284636402Z","level":"INFO","msg":"stream: closing","id":"f6pc7rfw"}
+{"time":"2024-11-06T04:48:59.284771027Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T04:48:59.285768993Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T04:48:59.390060145Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-06T04:48:59.390200952Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-06T04:48:59.390249067Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-06T04:48:59.729954271Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T04:48:59.952010889Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"f6pc7rfw"}}
+{"time":"2024-11-06T04:48:59.952084103Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"f6pc7rfw"}}
+{"time":"2024-11-06T04:48:59.952240922Z","level":"INFO","msg":"sender: closed","stream_id":"f6pc7rfw"}
+{"time":"2024-11-06T04:48:59.953619804Z","level":"INFO","msg":"stream: closed","id":"f6pc7rfw"}

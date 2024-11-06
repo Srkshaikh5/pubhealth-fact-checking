@@ -1,0 +1,6 @@
+100% 1226/1226 [08:15<00:00,  2.47it/s]
+{'loss': 0.7574, 'grad_norm': 5.034843444824219, 'learning_rate': 2.9608482871125614e-05, 'epoch': 0.41}
+{'loss': 0.6608, 'grad_norm': 5.01078987121582, 'learning_rate': 9.216965742251224e-06, 'epoch': 0.82}
+                                     
+{'eval_loss': 0.6742227673530579, 'eval_accuracy': 0.7274939172749392, 'eval_runtime': 20.6971, 'eval_samples_per_second': 59.574, 'eval_steps_per_second': 7.489, 'epoch': 1.0}
+{'train_runtime': 497.2132, 'train_samples_per_second': 19.718, 'train_steps_per_second': 2.466, 'train_loss': 0.6952206983457382, 'epoch': 1.0}

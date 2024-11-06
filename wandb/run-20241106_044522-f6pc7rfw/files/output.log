@@ -1,0 +1,9 @@
+ 15% 565/3678 [03:36<19:43,  2.63it/s]Traceback (most recent call last):
+{'loss': 0.7651, 'grad_norm': 5.197629451751709, 'learning_rate': 4.320282762370854e-05, 'epoch': 0.41}
+  File "/content/gdrive/MyDrive/PUBHEALTH/train2.py", line 80, in <module>
+    trainer.train()
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 2284, in _inner_training_loop
+    and (torch.isnan(tr_loss_step) or torch.isinf(tr_loss_step))
+KeyboardInterrupt

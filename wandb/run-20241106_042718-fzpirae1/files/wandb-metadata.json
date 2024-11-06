@@ -1,0 +1,28 @@
+{
+  "os":  "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-11-06T04:27:18.388639Z",
+  "program":  "/content/gdrive/MyDrive/PUBHEALTH/train.py",
+  "codePath":  "train.py",
+  "email":  "sarukshaikh05@gmail.com",
+  "root":  "/content/gdrive/MyDrive/PUBHEALTH",
+  "host":  "4ec2256dbd2d",
+  "username":  "root",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "train.py",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "disk":  {
+    "/":  {
+      "total":  "115658190848",
+      "used":  "35026079744"
+    }
+  },
+  "memory":  {
+    "total":  "13609431040"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  }
+}

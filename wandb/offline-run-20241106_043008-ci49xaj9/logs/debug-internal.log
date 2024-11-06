@@ -1,0 +1,15 @@
+{"time":"2024-11-06T04:30:08.63930018Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T04:30:08.640636777Z","level":"INFO","msg":"created symlink","path":"/content/gdrive/MyDrive/PUBHEALTH/wandb/offline-run-20241106_043008-ci49xaj9/logs/debug-core.log"}
+{"time":"2024-11-06T04:30:08.749265788Z","level":"INFO","msg":"created new stream","id":"ci49xaj9"}
+{"time":"2024-11-06T04:30:08.749954701Z","level":"INFO","msg":"stream: started","id":"ci49xaj9"}
+{"time":"2024-11-06T04:30:08.74996491Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ci49xaj9"}}
+{"time":"2024-11-06T04:30:08.75006233Z","level":"INFO","msg":"handler: started","stream_id":{"value":"ci49xaj9"}}
+{"time":"2024-11-06T04:30:08.750097418Z","level":"INFO","msg":"sender: started","stream_id":"ci49xaj9"}
+{"time":"2024-11-06T04:30:08.768204159Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T04:30:09.253925422Z","level":"INFO","msg":"stream: closing","id":"ci49xaj9"}
+{"time":"2024-11-06T04:30:09.254102448Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T04:30:09.254873598Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T04:30:09.255224018Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"ci49xaj9"}}
+{"time":"2024-11-06T04:30:09.255362127Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ci49xaj9"}}
+{"time":"2024-11-06T04:30:09.255442203Z","level":"INFO","msg":"sender: closed","stream_id":"ci49xaj9"}
+{"time":"2024-11-06T04:30:09.257492593Z","level":"INFO","msg":"stream: closed","id":"ci49xaj9"}

@@ -1,0 +1,11 @@
+  5% 185/3681 [01:11<21:51,  2.67it/s]Traceback (most recent call last):
+  File "/content/gdrive/MyDrive/PUBHEALTH/train2.py", line 72, in <module>
+    trainer.train()
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 2281, in _inner_training_loop
+    if (
+RuntimeError: CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.

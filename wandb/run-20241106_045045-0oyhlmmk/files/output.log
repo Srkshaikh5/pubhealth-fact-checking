@@ -1,0 +1,10 @@
+ 12% 452/3678 [02:52<20:45,  2.59it/s]Traceback (most recent call last):
+  File "/content/gdrive/MyDrive/PUBHEALTH/train.py", line 118, in <module>
+    train_model(train_file, test_file)
+  File "/content/gdrive/MyDrive/PUBHEALTH/train.py", line 109, in train_model
+    trainer.train()
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 1938, in train
+    return inner_training_loop(
+  File "/usr/local/lib/python3.10/dist-packages/transformers/trainer.py", line 2284, in _inner_training_loop
+    and (torch.isnan(tr_loss_step) or torch.isinf(tr_loss_step))
+KeyboardInterrupt
